@@ -1,2 +1,2 @@
 # Superkart_Project
-Airbnb Rental Price Prediction - Flask API Backend + Streamlit Frontend (Dockerized)
+SuperKart Prediction - Flask API Backend + Streamlit Frontend (Dockerized)

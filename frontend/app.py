@@ -40,7 +40,7 @@ Product_MRP = st.number_input(
 
 Store_Size = st.selectbox(
     "Store Size",
-    ["Low", "Medium", "High"]
+    ["Small", "Medium", "High"]
 )
 
 Store_Location_City_Type = st.selectbox(
